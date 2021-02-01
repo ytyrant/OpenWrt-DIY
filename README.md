@@ -7,3 +7,4 @@ Lean大神：https://github.com/coolsnowwolf/lede
 kenzok8大神：https://github.com/kenzok8/openwrt-packages
 
 
+![image](https://github.com/ytyrant/OpenWrt-DIY/blob/main/r2s.JPG)
